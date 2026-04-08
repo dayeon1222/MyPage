@@ -11,7 +11,7 @@
 아래 링크를 통해 배포된 페이지를 확인하실 수 있습니다.
 
 - **배포 주소:** [내 소개 페이지]
-  ()
+  (https://dayeonpage.netlify.app/)
 - **배포 주소:** [뉴스 블로그 AI]
   (https://my-news-blog-ai.netlify.app/)
 - **배포 주소:** [동화책 창작 서점]
